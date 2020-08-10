@@ -1,9 +1,12 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug  9 19:07:27 2020
+import numpy as np
 
-@au
-thor: Dell
-"""
+#ar = np.arange(3)
+#ar np.arange(5, 1, -2)
+#ar = np.linspace(0, 5, 4, dtype = bool)
+#ar = np.zeros((3, 3), dtype = int)
+#ar =np.diag([1, 2, 3, 4, 5])
+ar = np.random.rand(10)
+
+print(ar)
 
 
